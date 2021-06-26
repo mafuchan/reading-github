@@ -24,10 +24,10 @@ Lowering the barrier to entry democratizes open source development, and helps yo
 
 1. What 3 features make Github so powerful?
 2. How is Github like a resume?
-4. Slack your lead instructor the answer to this question: How does Github help young projects grow?
-3. Log into your Github Account, in the 'Overview' tab - update your three pinned repositories (pick any three)
-4. Check your Github contribution map, how many contributions do you have this year?
-5. Made a new repo, clone it to your local computer and add a README
-6. In the readme, add your name, birthday, and a list of all your favorite things including book, movie, band/music, food and past-time
-7. On Github, find 3 repositories you're interested in and 'star' them
-8. This Github article is interesting, but you don't need to read it for this drill. Just do number 4 and move on to the next drill
+3. Slack your lead instructor the answer to this question: How does Github help young projects grow?
+4. Log into your Github Account, in the 'Overview' tab - update your three pinned repositories (pick any three)
+5. Check your Github contribution map, how many contributions do you have this year?
+6. Made a new repo, clone it to your local computer and add a README
+7. In the readme, add your name, birthday, and a list of all your favorite things including book, movie, band/music, food and past-time
+8. On Github, find 3 repositories you're interested in and 'star' them
+9. This Github article is interesting, but you don't need to read it for this drill. Just do number 4 and move on to the next drill
